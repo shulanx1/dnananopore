@@ -1,29 +1,23 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Solving the equivalent circuit using DNA nanopore to perform quasi-intracellular recording.
 
-### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+### Dependence ###
 
-### Contribution guidelines ###
+* numpy
+* scipy
 
-* Writing tests
-* Code review
-* Other guidelines
 
-### Who do I talk to? ###
+### Files ###
 
-* Repo owner or admin
-* Other community or team contact
+* main_script.py: example pipeline
+* dterministic_HH: functions solving a HH style single compartment neuron with dual patch configuration: a whole cell pipette and a cell-attached pipette with DNA nanopore
+
+
+### Contact ###
+
+* Please contact xiao208@purdue.edu for any questions
